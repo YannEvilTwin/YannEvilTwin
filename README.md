@@ -62,5 +62,5 @@
 
 [Lo podes ver acá!](https://yanneviltwin.github.io/portfolio/)
 
-![](C:\Users\Yann\Desktop\Utilidades portfolio\Gif Portfolio final.gif)
+![](https://media.giphy.com/media/tTR8i9hhxGKp3KD46E/giphy.gif)
 
