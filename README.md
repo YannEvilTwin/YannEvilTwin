@@ -10,7 +10,7 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eichenbergerche.eichenbergerche)
+![Visitantes](https://komarev.com/ghpvc/?username=YannEvilTwin&color=blueviolet)
 
 <div size='20px'> Hola! Mi nombre es Yann. Gracias por visitar mi perfil :smile: 
 </div>
