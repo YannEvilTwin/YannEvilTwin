@@ -21,7 +21,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 Actualmente, trabajo en Coder House, como tutora de Desarrollo Web y JavasCript, tutora de la carrera de Diseño UX/UI, tutora de Wordpress y Metodologías ágiles (Scrum) y en algunos proyectos freelance.
+- 🔭 Actualmente, trabajo en Coder House, como tutora de Desarrollo Web y JavaScript, tutora de la carrera de Diseño UX/UI, tutora de Wordpress y Metodologías ágiles (Scrum) y en algunos proyectos freelance.
 
 - 🌱 Estoy aprendiendo Backend y ampliando mis conocimientos en JavaScript, React Js y Diseño UX/UI.
 
