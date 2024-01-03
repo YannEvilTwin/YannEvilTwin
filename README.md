@@ -51,7 +51,7 @@
 <a href = 'https://www.github.com/YannEvilTwin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <h2> Mi Portfolio </h2>
 
-[Lo podes ver acá!](https://yanneviltwin.github.io/portfolio/)
+[Lo podes ver acá!](https://yanina-andregnette.netlify.app/)
 
 ![](https://media.giphy.com/media/tTR8i9hhxGKp3KD46E/giphy.gif)
 
